@@ -101,7 +101,7 @@ flowchart TD
 To get started with the tutorial:
 
 1. Clone the [adk-python repository](https://github.com/google/adk-python)
-2. These are documents only, not environment needed.
+2. These are documents only, no environment needed.
 3. Start with [Chapter 1: Agent](01_agent.md) and work through the chapters
    sequentially
 
